@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sadiq, an <a href="https://linkedin.com/in/sadiqsuleiman">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sadiq, an <a href="https://linkedin.com/in/sadiqsuleiman">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
